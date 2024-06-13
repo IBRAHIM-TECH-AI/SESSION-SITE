@@ -17,6 +17,12 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## IBRAHIM ADAMS QR
+
+[TAP HERE OPEN](https://ibrahim-tech-qr-1-2-1.onrender.com/)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 # Star repo if you don't mind
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
