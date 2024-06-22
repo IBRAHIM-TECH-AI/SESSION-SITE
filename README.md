@@ -17,9 +17,9 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## IBRAHIM ADAMS QR
+## ONRENDER SCANNER (GENERAL)
 
-[TAP HERE OPEN](https://ibrahim-tech-qr-1-2-1.onrender.com/)
+[TAP HERE OPEN](https://render-session-scanner-by-ibrahim-adams.onrender.com)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
