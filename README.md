@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # SESSION-SITE
 
-# MADE BY IBRAHIM ADAMS
+# MADE BY LUNA TECH
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -11,7 +11,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## BMW MD SCANNER
+## LUNATIC-MD SCANNER
 
 [TAP HERE OPEN](https://bmw-scanne-6e4e0f3a3644.herokuapp.com/)
 
@@ -19,7 +19,7 @@
 
 ## ONRENDER SCANNER (GENERAL)
 
-[TAP HERE OPEN](https://render-session-scanner-by-ibrahim-adams.onrender.com)
+[TAP HERE OPEN](https://render-session-scanner-by-luna-tech.onrender.com)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
