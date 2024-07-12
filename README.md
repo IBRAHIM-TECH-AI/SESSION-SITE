@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # SESSION-SITE
 
-# MADE BY IBRAHIM ADAMS
+# CREATED BY CARL WILLIAM
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
