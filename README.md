@@ -7,13 +7,13 @@
 
 ## BLACK PANTHER SCANNER
 
-[TAP HERE OPEN](https://panther-scanne-1d949da80ef3.herokuapp.com/)
+[TAP HERE OPEN](https://panther-code-8ae9226235a0.herokuapp.com/)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## BMW MD SCANNER
 
-[TAP HERE OPEN](https://bmw-scanne-6e4e0f3a3644.herokuapp.com/)
+[TAP HERE OPEN](https://bmw-code-9cc00f05c2d7.herokuapp.com/)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
