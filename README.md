@@ -7,25 +7,25 @@
 
 ## BLACK PANTHER SCANNER
 
-[TAP HERE OPEN](https://panther-code-8ae9226235a0.herokuapp.com/)
+
+- <a href="https://panther-md-2a49b9e6e8b0.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## BMW MD SCANNER
 
-[TAP HERE OPEN](https://bmw-code-9cc00f05c2d7.herokuapp.com/)
+
+- <a href="https://bmw-md-f329b3a0ce76.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ONRENDER SCANNER (GENERAL)
 
-[TAP HERE OPEN](https://render-session-scanner-by-ibrahim-adams.onrender.com)
+- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## BELTAR MD SCANNER
-
-[TAP HERE OPEN](https://pair-bel-tah-b427bf12d2e2.herokuapp.com/)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
